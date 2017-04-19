@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "cradle": "^0.6.9",
-    "forecast": "^0.2.1",
+    "forecast": "^0.3.0",
     "moment": "^2.10.3",
     "querystring": "^0.2.0",
     "request": "^2.58.0"
